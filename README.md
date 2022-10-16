@@ -3,7 +3,6 @@
 Name :THIRUGNANAMOORTHI.G
 Roll no :212221230117
 Ex. No. : 3
-Date: 12/10/2022
 ~~~
  
 # Aim: 
